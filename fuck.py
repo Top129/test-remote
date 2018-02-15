@@ -1,2 +1,2 @@
 print('fuck you')
-print("rich")
+print("very rich")
